@@ -27,44 +27,51 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Ashenden</dc:title>
+		<dc:title id="subtitle">or, The British Agent</dc:title>
+		<dc:title id="fulltitle">Ashenden: or, The British Agent</dc:title>
 		<meta property="file-as" refines="#title">Ashenden</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<meta property="file-as" refines="#subtitle">Or, The British Agent</meta>
+		<meta property="file-as" refines="#fulltitle">Ashenden: Or, The British Agent</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:subject id="subject-1">World War, 1914-1918--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-1">sh2008113819</meta>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of short stories, based on the experiences of an intelligence agent during World War I.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;During World War I &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;Somerset Maugham&lt;/a&gt;, already by then an established playwright and author, was recruited to be a British intelligence agent. These fictionalized stories reflect his wartime experiences in intelligence gathering. Set in various locales across the continent, from Paris to Naples, Geneva to Petrograd, the Ashenden stories are a precursor to the jet-setting spy novels of the 1950s and 1960s. Maugham is known as a master short story writer and these stories are no exception, combining wit and realism to create a unique and highly critical portrait of wartime espionage.&lt;/p&gt;
+			&lt;p&gt;Initially released to a mixed reception, an early review by &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;D. H. Lawrence&lt;/a&gt; being especially scathing, &lt;i&gt;Ashenden&lt;/i&gt; has since been cited as an inspiration for numerous authors, including John Le Care, Graham Greene, and Raymond Chandler. The latter in particular was especially impressed, writing in 1950, “There are no other great spy stories–none at all. I have been searching and I know.”&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20160522</dc:source>
+		<dc:source>https://archive.org/details/ashendenorbritis00maug</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ashenden</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ashenden:_Or_the_British_Agent</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-somerset-maugham_ashenden</meta>
 		<dc:creator id="author">W. Somerset Maugham</dc:creator>
 		<meta property="file-as" refines="#author">Maugham, W. Somerset</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">William Somerset Maugham</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/W._Somerset_Maugham</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79036830</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">Vincent van Gogh</dc:contributor>
+		<meta property="file-as" refines="#artist">van Gogh, Vincent</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vincent_van_Gogh</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79022935</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Mark Akrigg</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Akrigg, Mark</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bystricky, Lukas</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
