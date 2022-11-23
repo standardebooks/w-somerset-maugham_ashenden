@@ -86,17 +86,26 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-chance-acquaintance.xhtml" id="a-chance-acquaintance.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-domiciliary-visit.xhtml" id="a-domiciliary-visit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-trip-to-paris.xhtml" id="a-trip-to-paris.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/behind-the-scenes.xhtml" id="behind-the-scenes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/giulia-lazzari.xhtml" id="giulia-lazzari.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/gustav.xhtml" id="gustav.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/his-excellency.xhtml" id="his-excellency.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/love-and-russian-literature.xhtml" id="love-and-russian-literature.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/miss-king.xhtml" id="miss-king.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mr-harringtons-washing.xhtml" id="mr-harringtons-washing.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/r.xhtml" id="r.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dark-woman.xhtml" id="the-dark-woman.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-flip-of-a-coin.xhtml" id="the-flip-of-a-coin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-greek.xhtml" id="the-greek.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hairless-mexican.xhtml" id="the-hairless-mexican.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-traitor.xhtml" id="the-traitor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -106,13 +115,22 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="preface.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
-		<itemref idref="chapter-1.xhtml"/>
-		<itemref idref="chapter-2.xhtml"/>
-		<itemref idref="chapter-3.xhtml"/>
-		<itemref idref="chapter-4.xhtml"/>
-		<itemref idref="chapter-5.xhtml"/>
-		<itemref idref="chapter-6.xhtml"/>
-		<itemref idref="chapter-7.xhtml"/>
+		<itemref idref="r.xhtml"/>
+		<itemref idref="a-domiciliary-visit.xhtml"/>
+		<itemref idref="miss-king.xhtml"/>
+		<itemref idref="the-hairless-mexican.xhtml"/>
+		<itemref idref="the-dark-woman.xhtml"/>
+		<itemref idref="the-greek.xhtml"/>
+		<itemref idref="a-trip-to-paris.xhtml"/>
+		<itemref idref="giulia-lazzari.xhtml"/>
+		<itemref idref="gustav.xhtml"/>
+		<itemref idref="the-traitor.xhtml"/>
+		<itemref idref="behind-the-scenes.xhtml"/>
+		<itemref idref="his-excellency.xhtml"/>
+		<itemref idref="the-flip-of-a-coin.xhtml"/>
+		<itemref idref="a-chance-acquaintance.xhtml"/>
+		<itemref idref="love-and-russian-literature.xhtml"/>
+		<itemref idref="mr-harringtons-washing.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
