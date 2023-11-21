@@ -40,6 +40,8 @@
 		<meta property="term" refines="#subject-1">sh2008113819</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A collection of short stories based on the experiences of an intelligence agent during World War I.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;During World War I &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;W. Somerset Maugham&lt;/a&gt;, already by then an established playwright and author, was recruited to be a British intelligence agent. These stories reflect his wartime experiences in intelligence gathering. Though fictionalized, they managed to retain enough authentic elements for Winston Churchill to advise Maugham that their publication might be a violation of the Official Secrets Act, resulting in the author burning an additional 14 stories.&lt;/p&gt;
