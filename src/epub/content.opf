@@ -71,6 +71,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Vincent van Gogh</dc:contributor>
 		<meta property="file-as" refines="#artist">van Gogh, Vincent</meta>
+		<meta property="schema:alternateName" refines="#artist">Vincent Willem van Gogh</meta>
 		<link href="https://en.wikipedia.org/wiki/Vincent_van_Gogh" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79022935.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
